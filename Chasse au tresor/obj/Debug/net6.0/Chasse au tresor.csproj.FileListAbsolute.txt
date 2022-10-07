@@ -1,0 +1,15 @@
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\bin\Debug\net6.0\Chasse au tresor.exe
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\bin\Debug\net6.0\Chasse au tresor.deps.json
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\bin\Debug\net6.0\Chasse au tresor.runtimeconfig.json
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\bin\Debug\net6.0\Chasse au tresor.dll
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\bin\Debug\net6.0\Chasse au tresor.pdb
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\obj\Debug\net6.0\Chasse au tresor.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\obj\Debug\net6.0\Chasse au tresor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\obj\Debug\net6.0\Chasse au tresor.AssemblyInfoInputs.cache
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\obj\Debug\net6.0\Chasse au tresor.AssemblyInfo.cs
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\obj\Debug\net6.0\Chasse au tresor.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\obj\Debug\net6.0\Chasse au tresor.dll
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\obj\Debug\net6.0\refint\Chasse au tresor.dll
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\obj\Debug\net6.0\Chasse au tresor.pdb
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\obj\Debug\net6.0\Chasse au tresor.genruntimeconfig.cache
+C:\Users\emili\source\repos\Chasse au tresor\Chasse au tresor\obj\Debug\net6.0\ref\Chasse au tresor.dll
